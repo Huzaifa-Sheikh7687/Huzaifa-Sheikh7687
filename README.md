@@ -1,4 +1,4 @@
-![](https://github.com/Huzaifa-Sheikh7687/Huzaifa-Sheikh7687/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Huzaifa Sheikh</h1>
 <h3 align="center">A passionate Data Scientist and AI Engineer</h3>
 
